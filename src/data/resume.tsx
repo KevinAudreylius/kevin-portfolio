@@ -256,7 +256,7 @@ export const DATA = {
           icon: <Icons.figma className="size-3" />,
         },
       ],
-      image: "/Project5.png",
+      image: "/project5.png",
       video:
         "",
     },
